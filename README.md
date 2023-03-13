@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/43-grupe-astronautas/
+Site published at: https://github.com/karolis879/02-projektas-kosmonautas/
 
 Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 
@@ -68,7 +68,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Karolis: [Github](https://github.com/karolis879)
 
 ## ⚠️ License
 
